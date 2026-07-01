@@ -37,10 +37,10 @@ Interactive Excel dashboard analyzing **128,975 Amazon sales transactions** acro
 ![Dashboard Overview](./Dashboard_1.png)
 
 ### Fulfillment Performance Analysis
-![Fulfillment Comparison](./Dashboard3.png)
+![Fulfillment Comparison](./Dashboard_3.png)
 
 ### Data Cleaning Documentation
-![Data Cleaning Log](./Data-Cleaning-Log.png)
+![Data Cleaning Log](./Data-Cleaning_Log.png)
 
 ---
 
